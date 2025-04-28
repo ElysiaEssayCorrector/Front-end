@@ -50,5 +50,3 @@ Este repositório contém o frontend da aplicação Elysia, responsável pela in
 2. No frontend, crie o arquivo `config.js` conforme instrução acima e ajuste a URL se necessário.
 3. O frontend irá se comunicar automaticamente com o backend configurado em `config.js`.
 4. Para mudar o backend (produção, staging, etc), basta editar `config.js`.
-
-Dúvidas? Fale com o responsável pelo frontend ou abra uma Issue neste repositório.
